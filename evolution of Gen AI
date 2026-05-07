@@ -1,1 +1,84 @@
 Analogy: AI is like the dream of building a "thinking machine." ML, DL, and GenAI are different engineering paths to that dream.
+
+Human Intelligence has
+
+1. problem solving skills
+2. decision making 
+3. learning
+4. understanding language
+5. reasoning
+
+AI - Artificial Intelligence
+AI - machines to learn these skills from humans using the logics and then perform the tasks.(Human writes the rules)
+-  Inputs --> Logic --> Output
+- example - if temperature > 40 then turn on FAN.
+- limitations:
+1. more logic combinations required and more code
+2. hard to maintain
+
+To overcome these limitations ML create.
+
+ML - Machine Learning
+ML - Instead of writing rules by humans, machines learns from data.
+example:
+
+if (string.equals("lottery") {
+sout("Mark as spam");
+}
+
+instead of above
+ML use data set(collect data), probability, predictions, algorithms, 
+
+example: ML learns like won the prize, meetings are scheduled and free cost. based on the trained datas, it will predict the spam emails.
+
+It will work with many learned datas.
+
+Deep Learning 
+DP - Advanced of ML - its like neural networks like our brain which connects and recognize based on neural way. example - face recognition
+
+-simple example - human brain would recognize like 
+-this is mobile phone, it has types like iphone n andriod, type of models like vivo, pixel etc. like wise Deep learning recognize using neural networks.
+
+-So these all are like trained ones, it won't create its own.
+
+Generative AI
+Gen AI originated to create own itself by LLM models - prediction of text words.
+-Gen AI has many models like audio model, video model, image model, text model(LLM)
+-LLM - Large Language Model - trained using huge test data 
+-example: what is India - it will split like I|n|d|i|a into different parts and it will converted it to vector(0's, 1's) 
+   and it will analyze the data on deep inside then it will predict the possible output to be delivered.
+
+RAG - Retrieval Augmented Analysis - It will have the private data to be securely stored and it will have the present data to be delivered to the LLM.
+
+Agentic AI - complete goal like to book the hotels. it would call(tool calling) the different apis like location apis, calendar apis, payment apis etc. 
+    using these tool calling it will complete the whole task.
+
+MCP server - Model Context Protocol
+   It will act between the AI and tools to integrate each other.
+
+--for example - i want to handle 5 agents for a task and those same agents we are using again to another task, instead of duplicating those agents again
+make it as MCP server and reuse it.
+
+-- another example - am having bit bucket, copilot
+        bit bucket has all the repositories 
+        copilot (LLM model)would helps to give the predictions like whats the error, which repo gets to commit, which team can responsible for that
+           issue. those details we can get it only when we integrate the LLM model (AI) with the tools(bit bucket). here the MCP server helps to 
+           integrate the ai and tools.
+
+Prompt Engineering -- better prompts give the better output i.e., the thing is how we are getting our expected output from the LLM models.
+        what you want to be in clear input prompts -- then will get the expected output. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
