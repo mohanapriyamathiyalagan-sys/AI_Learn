@@ -35,6 +35,19 @@ Internal flow of Claude
   --Attention Mechanism - AI focuses important words to understand the meaning.
       human understands - The animal didn't cross the road because it was tired.
                         - here "it" - "animal" --> human brain knows that automatically.. like wise AI gather the important word for Attention mechanism
-  --Output
+  --Next token prediction
+
+So in general claude processes based on
+predict patterns
+relationship based
+probable outputs
+
+context has a capable of handling
+  --huge pdfs
+  --long conversations
+  --large coding and datas
+
+System prompt - Highest level instruction to LLM that helps to control the behavior
+
 
 
