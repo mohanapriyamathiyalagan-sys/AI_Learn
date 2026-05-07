@@ -1,0 +1,40 @@
+Claude  - Large context LLM model designed by Antropic company which is similar to chatgpt, gemini, llama.
+Its specificly for safety, thinking, large context, entreprise workflows(Business and task flows that used to complete the operational work)
+
+Claude roadmap
+AI basic - LLM basic - Claude fundamentals - prompt ENgineering - claude api - tools use - mcp - rag - claude code - Agent workflows
+
+Agent - doing tasks as its own (independently)
+context - AI remembers the information and used to generate the next response 
+
+Different ways of Claude model
+Haiku - it will have lightweight and fast
+Sonnet - Balanced
+Opus - deep powerful thinking
+
+
+Claude strength 
+  --thinking
+  --coding
+  --document understanding
+  --large context
+  --workflows
+  --enterprise use (Business use)
+
+
+Internal flow of Claude
+  --Prompt - input that we are providing to the LLM
+  --Tokenization - splitting the text     example - Java |is | a| programming
+  --Embeddings - converting text into vector - machine understandable language
+  --Tranformer layers(each layers) - example ->
+             teacher correcting the essay -- layer 1 - Basic, layer 2 - grammar, layer 3 - sentence meaning, layer 4 - deep context
+      -read all words
+      -check relationships
+      -better understanding
+      -pass from better understanding layer to next layer
+  --Attention Mechanism - AI focuses important words to understand the meaning.
+      human understands - The animal didn't cross the road because it was tired.
+                        - here "it" - "animal" --> human brain knows that automatically.. like wise AI gather the important word for Attention mechanism
+  --Output
+
+
