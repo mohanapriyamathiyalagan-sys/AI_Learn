@@ -42,13 +42,13 @@ DP - Advanced of ML - its like neural networks like our brain which connects and
 -So these all are like trained ones, it won't create its own.
 
 Generative AI
-Gen AI originated to create own itself by LLM models - prediction of text words.
+Gen AI originated to create own itself by LLM models - basic internal working mechanism - prediction of next token.
 -Gen AI has many models like audio model, video model, image model, text model(LLM)
 -LLM - Large Language Model - trained using huge test data 
--example: what is India - it will split like I|n|d|i|a into different parts and it will converted it to vector(0's, 1's) 
+-example: what is India - it will split like tokens In|di|a into different parts and it will converted it to vector(0's, 1's) 
    and it will analyze the data on deep inside then it will predict the possible output to be delivered.
 
-RAG - Retrieval Augmented Analysis - It will have the private data to be securely stored and it will have the present data to be delivered to the LLM.
+RAG - Retrieval Augmented Analysis - It will have the own data to inject AI and it will have the present data to be delivered to the LLM.
 
 Agentic AI - complete goal like to book the hotels. it would call(tool calling) the different apis like location apis, calendar apis, payment apis etc. 
     using these tool calling it will complete the whole task.
@@ -56,7 +56,7 @@ Agentic AI - complete goal like to book the hotels. it would call(tool calling) 
 MCP server - Model Context Protocol
    It will act between the AI and tools to integrate each other.
 
---for example - i want to handle 5 agents for a task and those same agents we are using again to another task, instead of duplicating those agents again
+--for example - i want to handle 5 toola for a task and those same tools we are using again to another task, instead of duplicating those tools again
 make it as MCP server and reuse it.
 
 -- another example - am having bit bucket, copilot
