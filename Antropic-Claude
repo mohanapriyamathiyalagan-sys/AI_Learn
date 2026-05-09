@@ -25,7 +25,7 @@ Claude strength
 Internal flow of Claude
   --Prompt - input that we are providing to the LLM
   --Tokenization - splitting the text     example - Java |is | a| programming
-  --Embeddings - converting text into vector - machine understandable language
+  --Embeddings - converting text into vector(0's and 1's) - machine understandable language
   --Tranformer layers(each layers) - example ->
              teacher correcting the essay -- layer 1 - Basic, layer 2 - grammar, layer 3 - sentence meaning, layer 4 - deep context
       -read all words
