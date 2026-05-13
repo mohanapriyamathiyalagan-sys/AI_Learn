@@ -49,7 +49,13 @@ context has a capable of handling
 
 System prompt - Highest level instruction to LLM that helps to control the behavior
 
+5 Domains
 
+Domain 1: Agentic Architecture & Orchestration (27% of scored content) 
+Domain 2: Tool Design & MCP Integration (18% of scored content) 
+Domain 3: Claude Code Configuration & Workflows (20% of scored content) 
+Domain 4: Prompt Engineering & Structured Output (20% of scored content) 
+Domain 5: Context Management & Reliability (15% of scored content) 
 
 
 
